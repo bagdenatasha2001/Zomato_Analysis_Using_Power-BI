@@ -35,13 +35,12 @@ This project involves creating an interactive Power BI dashboard to analyze Zoma
 
 <img src="https://github.com/bagdenatasha2001/Zomato_Analysis_Using_Power-BI/blob/main/Dashborad_Images/Overview_Page.png" width="1200" height="500"> &nbsp;
 
-<img src="https://github.com/bagdenatasha2001/Zomato_Analysis_Using_Power-BI/blob/main/Dashborad_Images/User_Performance.png" width="1200" height="500"> &nbsp;
+<img src="https://github.com/bagdenatasha2001/Zomato_Analysis_Using_Power-BI/blob/main/Dashborad_Images/user_performance.png" width="1200" height="500"> &nbsp;
 
-<img src="https://github.com/bagdenatasha2001/Zomato_Analysis_Using_Power-BI/blob/main/Dashborad_Images/City_Performance.png" width="1200" height="500"> &nbsp;
+<img src="https://github.com/bagdenatasha2001/Zomato_Analysis_Using_Power-BI/blob/main/Dashborad_Images/city_performance.png" width="1200" height="500"> &nbsp;
 
 ## key Insights :
 
-Key Insights:
 
 - Zomato has a strong regional presence, with cities like Electronic City, Old Gurgaon, and Gorakhpur contributing significantly to total orders and revenue.
 - Non-Veg items are the most preferred category, driving higher order volumes and engagement compared to Veg items.
